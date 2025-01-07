@@ -1,7 +1,7 @@
 // import PropTypes from 'prop-types';
 import { FaFacebookF, FaLinkedinIn } from 'react-icons/fa';
 import { FcGoogle } from 'react-icons/fc';
-import loginBanner from "../../images/images/register.png"
+import loginBanner from "../../images/Images/register.png"
 import { Link, useNavigate } from 'react-router-dom';
 import { useContext, useState } from 'react';
 import Swal from 'sweetalert2'
