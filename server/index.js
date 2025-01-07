@@ -59,6 +59,7 @@ async function run() {
 
     //get all products
     app.get('/api/books', async(req, res)=>{
+      console.log('get all books');
       const cursor = bookCollection.find();
       const result = await cursor.toArray();
       res.send(result);
