@@ -1,5 +1,9 @@
 # DTU Library Management System
 
+## Deployed Link
+https://dtu-library-management.vercel.app/
+(may take upto 50 seconds to start up the app)
+
 ## Demo Video
 [Watch the demo video here](https://www.loom.com/share/446de12143074ee887ac6149e89131b0?sid=fbc69f31-cc85-49dc-95e7-c8b1cfff21b4)
 
@@ -64,3 +68,4 @@
 - Admin portal.
 - MongoDB as the database for secure and scalable data storage.
 - Dashboard with Library statistics.
+- Deployed on Render
