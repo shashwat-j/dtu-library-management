@@ -1,7 +1,7 @@
 # DTU Library Management System
 
 ## Demo Video
-[Watch the demo video here](#https://www.loom.com/share/446de12143074ee887ac6149e89131b0?sid=fbc69f31-cc85-49dc-95e7-c8b1cfff21b4)
+[Watch the demo video here](https://www.loom.com/share/446de12143074ee887ac6149e89131b0?sid=fbc69f31-cc85-49dc-95e7-c8b1cfff21b4)
 
 ---
 
